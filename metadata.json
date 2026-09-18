@@ -1,0 +1,6 @@
+{
+  "name": "TaskHabit",
+  "description": "Plan your tasks. Build your habits. Stay consistent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
